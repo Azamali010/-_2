@@ -13,7 +13,7 @@ import com.example.stopwatch.util.Constants.STOPWATCH_STATE
 import com.example.stopwatch.util.Constants.STOP_REQUEST_CODE
 
 @ExperimentalAnimationApi
-object ServiceHelper {
+object  ServiceHelper {
 
     private val flag =
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.M)
